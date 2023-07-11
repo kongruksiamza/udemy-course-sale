@@ -34,6 +34,6 @@
 - [สร้างเกม 2D ด้วยโปรแกรม Unity (ตั้งแต่เริ่มต้นจนเล่นได้จริง)]()
 
 ## 💓 ช่อง Youtube ในเครือของเรา
-![logo]()
+![logo](https://github.com/kongruksiamza/coupon-100k-course/blob/main/logo.png?raw=true)
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 - [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
