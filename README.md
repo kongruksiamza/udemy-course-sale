@@ -35,6 +35,5 @@
 - ผู้เรียนต้องเรียนเนื้อหาเบื้องต้นใน Youtube ก่อนจึงจะสามารถเข้าเรียนคอร์ส Workshop ใน Udemy ได้
 
 ## 💓 ช่อง Youtube ในเครือของเรา
-![logo](https://github.com/kongruksiamza/coupon-100k-course/blob/main/logo.png?raw=true)
 - [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
 - [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
