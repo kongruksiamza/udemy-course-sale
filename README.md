@@ -7,7 +7,6 @@
 ⏰ เรียนได้ตลอดชีพ 🎓 ใบรับรองการจบหลักสูตร ✅ รับประกันยินดีคืนเงินใน 30 วัน
 
 ## 🔥 คอร์สเรียนยอดนิยม (349 บาท)
-- [สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)](https://www.udemy.com/course/python-real-world-projects/?couponCode=CP102023)
 - [พัฒนาเว็บด้วย JavaScript 40 Workshop (Building 40 Projects)](https://www.udemy.com/course/javascript-30-workshop/?couponCode=CP102023)
 - [พัฒนาเว็บด้วย React 15 Workshop (Building 15 Projects)](https://www.udemy.com/course/react-15-workshop/?couponCode=CP102023)
 
@@ -19,6 +18,7 @@
 - [พัฒนาเว็บด้วย JavaScript แบบ MERN Stack](https://www.udemy.com/course/javascript-mern-stack/?couponCode=CP102023)
 
 ## 💻 คอร์สพัฒนาแอพพลิเคชั่นด้วยภาษา Python & Blockchain (249 บาท)
+- [สร้างแอพพลิเคชั่นด้วยภาษา Python (Real-World Projects)](https://www.udemy.com/course/python-real-world-projects/?couponCode=CP102023)
 - [สร้าง GUI Application ด้วย Python (Real-World Project)](https://www.udemy.com/course/python-gui-projects/?couponCode=FSOC1023)
 - [พัฒนาเว็บด้วย Django Framework 4.x (Real-World Projects)](https://www.udemy.com/course/django-framework-real-world-projects/?couponCode=FSOC1023)
 - [พัฒนา REST API ด้วย Django REST Framework](https://www.udemy.com/course/rest-api-django-rest-framework/?couponCode=FSOC1023)
